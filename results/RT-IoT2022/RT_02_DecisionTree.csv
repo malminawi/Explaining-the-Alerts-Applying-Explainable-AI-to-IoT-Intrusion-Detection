@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,DecisionTree,70/15/15,0.998321,0.998976,0.999156,0.999066,0.99912,0.995075,0.998897,0.998915,0.998988,0.994481,0.998764,0.999903,0.999089,9.7e-05,0.995789,0.999058,0.000814,0.000837

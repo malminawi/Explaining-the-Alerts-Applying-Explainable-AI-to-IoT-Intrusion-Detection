@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,LinearSVM,70/15/15,0.988661,0.993261,0.99514,0.994199,0.994763,0.994054,0.999782,0.994317,0.994899,0.993968,0.999752,0.992614,0.992614,0.00012,0.992759,0.999645,1e-06,-0.001585

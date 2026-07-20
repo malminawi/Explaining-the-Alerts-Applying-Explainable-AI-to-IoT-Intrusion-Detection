@@ -1,0 +1,14 @@
+item,value
+model,MLP
+dataset,UNSW-NB15
+xai_samples_shap,300
+shap_top_feature_1,dttl
+lime_rules_collected,24
+best_rule,sttl > 0.7219
+best_rule_precision_attack,1.0
+best_rule_coverage,0.000103
+shap_time_sec,103.126
+sparsity_top10_mass_mean,0.731408
+fidelity_mae_top10_mask,0.101532
+stability_cosine_mean,0.840297
+faithfulness_prob_drop_top10,-0.147685

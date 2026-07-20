@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,KNN,70/15/15,0.929032,0.948855,0.939598,0.944204,0.941435,0.978429,0.982055,0.941388,0.937363,0.977322,0.9814,0.960984,0.940622,0.000522,0.975914,0.980104,0.019782,0.01678

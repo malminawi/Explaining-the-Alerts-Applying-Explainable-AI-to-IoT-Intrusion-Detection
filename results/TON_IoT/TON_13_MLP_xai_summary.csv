@@ -1,0 +1,14 @@
+item,value
+model,MLP
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,num__dst_port
+lime_rules_collected,24
+best_rule,cat__conn_state_REJ > 0.0000
+best_rule_precision_attack,1.0
+best_rule_coverage,0.21635
+shap_time_sec,177.999
+sparsity_top10_mass_mean,0.832966
+fidelity_mae_top10_mask,0.179381
+stability_cosine_mean,0.937384
+faithfulness_prob_drop_top10,0.212462

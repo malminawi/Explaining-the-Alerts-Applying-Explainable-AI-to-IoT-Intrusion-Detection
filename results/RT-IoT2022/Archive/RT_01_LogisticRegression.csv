@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,LogisticRegression,70/15/15,0.988196,0.994384,0.992466,0.993424,0.992849,0.99604,0.999402,0.992825,0.99261,0.995055,0.999265,0.993231,0.993094,0.000374,0.996091,0.999063,0.000191,-0.000193

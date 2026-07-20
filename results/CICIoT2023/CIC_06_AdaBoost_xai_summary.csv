@@ -1,0 +1,11 @@
+item,value
+model,AdaBoost
+dataset,CICIoT2023
+xai_samples_shap,1000
+shap_top_feature_1,rst_count
+lime_rules_collected,24
+shap_time_sec,256.02
+sparsity_top10_mass_mean,1.0
+fidelity_mae_top10_mask,0.0
+stability_cosine_mean,0.935325
+faithfulness_prob_drop_top10,0.046591

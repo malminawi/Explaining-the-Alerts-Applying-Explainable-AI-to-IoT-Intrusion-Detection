@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,BaggingClassifier,70/15/15,0.9988,0.999296,0.999131,0.999213,0.999164,0.999843,0.999917,0.999317,0.99928,0.999771,0.999863,1.0,0.998929,0.000138,0.999663,0.999797,0.001067,0.000787

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,CatBoost,70/15/15,0.950428,0.964981,0.957168,0.961058,0.95872,0.992328,0.995784,0.96037,0.956593,0.992051,0.995664,0.969115,0.959019,0.00073,0.991701,0.995445,0.008937,0.008057

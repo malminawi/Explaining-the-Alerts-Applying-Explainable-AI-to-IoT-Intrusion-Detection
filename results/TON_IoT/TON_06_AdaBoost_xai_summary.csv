@@ -1,0 +1,14 @@
+item,value
+model,AdaBoost
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,cat__proto_tcp
+lime_rules_collected,24
+best_rule,cat__conn_state_REJ > 0.0000
+best_rule_precision_attack,1.0
+best_rule_coverage,0.21635
+shap_time_sec,285.493
+sparsity_top10_mass_mean,0.906732
+fidelity_mae_top10_mask,0.078171
+stability_cosine_mean,0.881327
+faithfulness_prob_drop_top10,0.16388

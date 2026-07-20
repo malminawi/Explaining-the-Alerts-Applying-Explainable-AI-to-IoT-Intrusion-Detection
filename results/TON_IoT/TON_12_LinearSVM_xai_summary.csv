@@ -1,0 +1,14 @@
+item,value
+model,LinearSVM
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,cat__proto_udp
+lime_rules_collected,24
+best_rule,cat__conn_state_REJ > 0.0000
+best_rule_precision_attack,1.0
+best_rule_coverage,0.21635
+shap_time_sec,175.46
+sparsity_top10_mass_mean,0.801938
+fidelity_mae_top10_mask,0.589304
+stability_cosine_mean,0.959073
+faithfulness_prob_drop_top10,-0.21864

@@ -1,0 +1,14 @@
+item,value
+model,DecisionTree
+dataset,full_dataset
+xai_samples_shap,1000
+shap_top_feature_1,rst_count
+lime_rules_collected,24
+best_rule,IAT > 0.0051
+best_rule_precision_attack,0.953238
+best_rule_coverage,0.232261
+shap_time_sec,0.211
+sparsity_top10_mass_mean,0.698133
+fidelity_mae_top10_mask,0.026
+stability_cosine_mean,0.927481
+faithfulness_prob_drop_top10,-0.006

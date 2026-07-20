@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,KNN,70/15/15,0.997347,0.998013,0.999036,0.998524,0.998831,0.997146,0.999361,0.997922,0.998228,0.997075,0.999349,0.998806,0.998206,0.000217,0.997188,0.999371,0.000542,0.000282

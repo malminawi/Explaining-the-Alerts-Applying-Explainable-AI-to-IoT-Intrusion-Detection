@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,XGBoost,70/15/15,0.998863,0.999337,0.999397,0.999367,0.999385,0.999986,0.999998,0.999277,0.999277,0.99998,0.999998,0.999864,0.999296,0.000157,0.999972,0.999997,0.000562,0.000497

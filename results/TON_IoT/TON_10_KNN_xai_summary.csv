@@ -1,0 +1,14 @@
+item,value
+model,KNN
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,num__src_port
+lime_rules_collected,24
+best_rule,num__src_port > 0.6847
+best_rule_precision_attack,0.778754
+best_rule_coverage,0.237293
+shap_time_sec,4669.038
+sparsity_top10_mass_mean,0.816312
+fidelity_mae_top10_mask,0.0134
+stability_cosine_mean,0.78336
+faithfulness_prob_drop_top10,-0.1004

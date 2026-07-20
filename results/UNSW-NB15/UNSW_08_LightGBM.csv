@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,LightGBM,70/15/15,0.946107,0.96497,0.950164,0.95751,0.953089,0.991224,0.995167,0.956364,0.950825,0.990709,0.994925,0.958351,0.955637,0.000991,0.99079,0.994957,0.003118,0.000841

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,BaggingClassifier,70/15/15,0.951929,0.964799,0.959799,0.962292,0.960795,0.991791,0.994974,0.960601,0.959001,0.991549,0.994895,0.998239,0.960274,0.001013,0.991138,0.994703,0.038133,0.035947

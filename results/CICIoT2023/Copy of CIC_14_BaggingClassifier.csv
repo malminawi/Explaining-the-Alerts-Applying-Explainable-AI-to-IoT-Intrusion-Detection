@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,BaggingClassifier,70/15/15,0.99731,0.998929,0.998315,0.998622,0.998438,0.9996,0.999988,0.998648,0.99844,0.999573,0.999986,1.0,0.998162,4e-05,0.999427,0.999976,0.001838,0.001378

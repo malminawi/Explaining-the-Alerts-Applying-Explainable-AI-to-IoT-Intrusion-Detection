@@ -1,0 +1,14 @@
+item,value
+model,CatBoost
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,num__dst_port
+lime_rules_collected,24
+best_rule,num__dst_pkts > -0.0086
+best_rule_precision_attack,0.900892
+best_rule_coverage,0.265502
+shap_time_sec,60.367
+sparsity_top10_mass_mean,0.861713
+fidelity_mae_top10_mask,0.380016
+stability_cosine_mean,0.90638
+faithfulness_prob_drop_top10,0.546315

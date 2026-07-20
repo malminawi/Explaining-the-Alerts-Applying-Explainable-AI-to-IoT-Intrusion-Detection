@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,RandomForest,70/15/15,0.997639,0.999053,0.998528,0.998791,0.998633,0.999748,0.999994,0.998818,0.99866,0.99975,0.999994,1.0,0.998346,2.2e-05,0.99963,0.999988,0.001654,0.001209

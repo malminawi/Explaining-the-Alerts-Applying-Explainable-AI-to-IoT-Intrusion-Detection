@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+full_dataset,ExtraTrees,70/15/15,0.994419,0.997904,0.996279,0.997091,0.996603,0.998882,0.999933,0.997103,0.996591,0.998958,0.999939,0.999967,0.997137,3.9e-05,0.998914,0.999935,0.002834,0.002876

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,LinearSVM,70/15/15,0.906238,0.899261,0.960933,0.929075,0.947931,0.97627,0.985567,0.927141,0.946889,0.975365,0.985637,0.927097,0.927065,0.000449,0.974914,0.985093,-5.6e-05,-0.001978

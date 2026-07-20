@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,KNN,70/15/15,0.988869,0.9962,0.992386,0.994289,0.993146,0.989753,0.999566,0.994293,0.993007,0.990318,0.999595,0.994469,0.991973,0.000859,0.987885,0.999363,0.002414,0.00018

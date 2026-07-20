@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,LinearSVM,70/15/15,0.985759,0.992996,0.99114,0.992067,0.991511,0.996938,0.999617,0.991654,0.99178,0.995709,0.999425,0.991856,0.992234,0.000555,0.99646,0.999309,0.000223,-0.000211

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,RandomForest,70/15/15,0.9987,0.999156,0.999397,0.999277,0.999349,0.999981,0.999998,0.999488,0.999542,0.999945,0.999991,0.999903,0.99927,7.8e-05,0.999747,0.999945,0.000633,0.000626

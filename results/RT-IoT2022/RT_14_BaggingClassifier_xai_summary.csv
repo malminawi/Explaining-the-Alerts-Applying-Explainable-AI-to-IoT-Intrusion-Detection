@@ -1,0 +1,14 @@
+item,value
+model,BaggingClassifier
+dataset,RT-IoT2022
+xai_samples_shap,1000
+shap_top_feature_1,flow_iat.min
+lime_rules_collected,24
+best_rule,flow_iat.min < -0.0172
+best_rule_precision_attack,0.99105
+best_rule_coverage,0.133095
+shap_time_sec,839.508
+sparsity_top10_mass_mean,0.773151
+fidelity_mae_top10_mask,0.066732
+stability_cosine_mean,0.823985
+faithfulness_prob_drop_top10,0.48533

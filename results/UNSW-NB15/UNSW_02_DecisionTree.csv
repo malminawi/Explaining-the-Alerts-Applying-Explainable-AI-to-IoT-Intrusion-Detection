@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,DecisionTree,70/15/15,0.938786,0.952254,0.951945,0.952099,0.952007,0.935654,0.938964,0.951451,0.951116,0.935041,0.93856,0.998237,0.948764,0.001897,0.931186,0.935042,0.049643,0.046138

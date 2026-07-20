@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,NaiveBayes,70/15/15,0.947145,0.999944,0.945924,0.972184,0.956256,0.991872,0.999782,0.972339,0.956499,0.991897,0.999782,0.964743,0.9561,0.009296,0.989638,0.999632,-2.4e-05,-0.007441

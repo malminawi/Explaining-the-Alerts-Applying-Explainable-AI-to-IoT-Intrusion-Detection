@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+full_dataset,LogisticRegression,70/15/15,0.985999,0.991127,0.994317,0.992719,0.993677,0.994987,0.999738,0.992567,0.993562,0.995063,0.999729,0.992627,0.992396,8.9e-05,0.995151,0.999747,1e-05,-9.2e-05

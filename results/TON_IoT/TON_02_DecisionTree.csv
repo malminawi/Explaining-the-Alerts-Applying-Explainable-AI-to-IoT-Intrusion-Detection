@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,DecisionTree,70/15/15,0.998389,0.99913,0.998758,0.998944,0.998833,0.997979,0.998837,0.999068,0.998907,0.998333,0.999054,1.0,0.998953,0.00026,0.997781,0.9987,0.001047,0.001056

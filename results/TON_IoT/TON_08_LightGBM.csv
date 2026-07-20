@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,LightGBM,70/15/15,0.998831,0.999338,0.999131,0.999234,0.999172,0.999967,0.999991,0.999317,0.99933,0.999988,0.999996,0.999707,0.999211,0.000106,0.999985,0.999995,0.000527,0.000473

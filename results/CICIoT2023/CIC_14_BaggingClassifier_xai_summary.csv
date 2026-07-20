@@ -1,0 +1,14 @@
+item,value
+model,BaggingClassifier
+dataset,CICIoT2023
+xai_samples_shap,100
+shap_top_feature_1,IAT
+lime_rules_collected,24
+best_rule,Header_Length < -0.1658
+best_rule_precision_attack,0.999996
+best_rule_coverage,0.222343
+shap_time_sec,330.77
+sparsity_top10_mass_mean,0.890872
+fidelity_mae_top10_mask,0.0093
+stability_cosine_mean,0.937373
+faithfulness_prob_drop_top10,-0.0464

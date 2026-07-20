@@ -1,0 +1,14 @@
+item,value
+model,ExtraTrees
+dataset,TON_IoT
+xai_samples_shap,1000
+shap_top_feature_1,cat__service_dns
+lime_rules_collected,24
+best_rule,num__src_port > 0.6847
+best_rule_precision_attack,0.778754
+best_rule_coverage,0.237293
+shap_time_sec,77.365
+sparsity_top10_mass_mean,0.804587
+fidelity_mae_top10_mask,0.5661
+stability_cosine_mean,0.962103
+faithfulness_prob_drop_top10,0.2342

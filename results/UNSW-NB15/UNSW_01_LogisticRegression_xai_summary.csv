@@ -1,0 +1,14 @@
+item,value
+model,LogisticRegression
+dataset,UNSW-NB15
+xai_samples_shap,1000
+shap_top_feature_1,dttl
+lime_rules_collected,24
+best_rule,dload > -0.2644
+best_rule_precision_attack,0.178041
+best_rule_coverage,0.255905
+shap_time_sec,0.026
+sparsity_top10_mass_mean,0.837113
+fidelity_mae_top10_mask,0.066863
+stability_cosine_mean,0.987672
+faithfulness_prob_drop_top10,0.103092

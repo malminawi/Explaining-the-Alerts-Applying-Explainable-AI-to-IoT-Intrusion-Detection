@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,ExtraTrees,70/15/15,0.997158,0.998945,0.998143,0.998544,0.998303,0.999597,0.999989,0.998569,0.99832,0.999646,0.999991,1.0,0.998022,2.2e-05,0.999471,0.999983,0.001978,0.001456

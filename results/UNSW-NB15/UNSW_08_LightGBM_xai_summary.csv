@@ -1,0 +1,14 @@
+item,value
+model,LightGBM
+dataset,UNSW-NB15
+xai_samples_shap,1000
+shap_top_feature_1,Column_6
+lime_rules_collected,24
+best_rule,Column_157 > 0.0000
+best_rule_precision_attack,1.0
+best_rule_coverage,0.060852
+shap_time_sec,13.055
+sparsity_top10_mass_mean,0.878838
+fidelity_mae_top10_mask,0.078424
+stability_cosine_mean,0.941185
+faithfulness_prob_drop_top10,-0.197005

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+UNSW-NB15,RandomForest,70/15/15,0.95048,0.962906,0.959475,0.961187,0.960159,0.99191,0.995147,0.959985,0.958585,0.991611,0.995188,0.998239,0.958962,0.000836,0.991192,0.994928,0.039445,0.037052

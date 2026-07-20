@@ -1,0 +1,14 @@
+item,value
+model,LinearSVM
+dataset,UNSW-NB15
+xai_samples_shap,300
+shap_top_feature_1,dttl
+lime_rules_collected,24
+best_rule,service_dns > 0.0000
+best_rule_precision_attack,0.84507
+best_rule_coverage,0.270032
+shap_time_sec,70.38
+sparsity_top10_mass_mean,0.786728
+fidelity_mae_top10_mask,0.192433
+stability_cosine_mean,0.924468
+faithfulness_prob_drop_top10,-0.280635

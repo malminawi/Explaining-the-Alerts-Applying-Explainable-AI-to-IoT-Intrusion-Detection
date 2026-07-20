@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,NaiveBayes,70/15/15,0.946827,0.96547,0.975711,0.970564,0.973646,0.976246,0.996455,0.969875,0.974124,0.975117,0.996307,0.969515,0.969904,0.00076,0.970901,0.99523,-5.7e-05,-0.001049

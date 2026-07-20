@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,MLP,70/15/15,0.994346,0.994351,0.998261,0.996302,0.997477,0.999421,0.999818,0.996797,0.99775,0.999382,0.999773,0.996463,0.996558,0.000438,0.999085,0.999527,0.000305,0.000161

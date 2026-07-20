@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,KNN,70/15/15,0.995609,0.996691,0.997558,0.997124,0.997384,0.997915,0.998783,0.997497,0.997658,0.998413,0.999086,0.998066,0.997215,9.4e-05,0.99836,0.999061,0.000743,0.000942

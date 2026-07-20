@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+TON_IoT,LogisticRegression,70/15/15,0.958208,0.970261,0.975121,0.972685,0.974145,0.99131,0.997274,0.97327,0.974333,0.992248,0.997491,0.972537,0.971985,0.000961,0.991404,0.997108,5.1e-05,-0.000148

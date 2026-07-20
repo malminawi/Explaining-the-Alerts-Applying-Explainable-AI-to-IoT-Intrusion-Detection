@@ -1,0 +1,14 @@
+item,value
+model,KNN
+dataset,RT-IoT2022
+xai_samples_shap,100
+shap_top_feature_1,fwd_pkts_payload.min
+lime_rules_collected,24
+best_rule,fwd_pkts_payload.avg > 0.4224
+best_rule_precision_attack,0.847134
+best_rule_coverage,0.008501
+shap_time_sec,1670.775
+sparsity_top10_mass_mean,0.696366
+fidelity_mae_top10_mask,0.032
+stability_cosine_mean,0.528495
+faithfulness_prob_drop_top10,-0.016

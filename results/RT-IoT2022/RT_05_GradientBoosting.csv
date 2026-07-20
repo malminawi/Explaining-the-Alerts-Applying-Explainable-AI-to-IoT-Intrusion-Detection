@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,GradientBoosting,70/15/15,0.998484,0.999216,0.999096,0.999156,0.99912,0.999799,0.999976,0.998493,0.998566,0.999656,0.99996,0.999277,0.99896,0.000136,0.99987,0.999984,0.000392,0.000121

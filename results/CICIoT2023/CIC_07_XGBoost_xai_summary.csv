@@ -1,0 +1,14 @@
+item,value
+model,XGBoost
+dataset,CICIoT2023
+xai_samples_shap,1000
+shap_top_feature_1,fin_count
+lime_rules_collected,24
+best_rule,AVG < -0.3085
+best_rule_precision_attack,1.0
+best_rule_coverage,0.269237
+shap_time_sec,7.185
+sparsity_top10_mass_mean,0.840765
+fidelity_mae_top10_mask,0.0042
+stability_cosine_mean,0.921748
+faithfulness_prob_drop_top10,-0.015381

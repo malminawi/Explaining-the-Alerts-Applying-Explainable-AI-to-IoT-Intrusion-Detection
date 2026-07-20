@@ -1,0 +1,14 @@
+item,value
+model,LinearSVM
+dataset,CICIoT2023
+xai_samples_shap,1000
+shap_top_feature_1,Radius
+lime_rules_collected,24
+best_rule,Max < -0.2495
+best_rule_precision_attack,1.0
+best_rule_coverage,0.268011
+shap_time_sec,96.179
+sparsity_top10_mass_mean,0.82178
+fidelity_mae_top10_mask,0.007314
+stability_cosine_mean,0.957428
+faithfulness_prob_drop_top10,-0.016389

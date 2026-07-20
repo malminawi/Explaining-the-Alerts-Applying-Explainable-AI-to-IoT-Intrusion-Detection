@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+RT-IoT2022,BaggingClassifier,70/15/15,0.99843,0.999156,0.999096,0.999126,0.999108,0.999981,0.999998,0.999066,0.99912,0.999642,0.999924,0.999903,0.999115,0.000135,0.999576,0.999906,0.000786,0.000777

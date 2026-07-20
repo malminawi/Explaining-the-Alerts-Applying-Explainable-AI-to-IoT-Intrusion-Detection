@@ -1,0 +1,14 @@
+item,value
+model,LogisticRegression
+dataset,full_dataset
+xai_samples_shap,1000
+shap_top_feature_1,syn_flag_number
+lime_rules_collected,24
+best_rule,ICMP > -0.1541
+best_rule_precision_attack,1.0
+best_rule_coverage,0.152315
+shap_time_sec,0.031
+sparsity_top10_mass_mean,0.725116
+fidelity_mae_top10_mask,0.260885
+stability_cosine_mean,0.965694
+faithfulness_prob_drop_top10,-0.030263

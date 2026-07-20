@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap,split
+TON_IoT,CatBoost,0.997726,0.998923,0.998096,0.998509,0.998261,0.999937,0.999982,0.998551,0.998278,0.999947,0.999983,0.998687,0.998505,0.000181,0.999938,0.99998,0.000335,0.000178,70/15/15

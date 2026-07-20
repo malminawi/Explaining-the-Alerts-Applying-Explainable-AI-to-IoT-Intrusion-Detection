@@ -1,0 +1,14 @@
+item,value
+model,ExtraTrees
+dataset,UNSW-NB15
+xai_samples_shap,50
+shap_top_feature_1,sttl
+lime_rules_collected,24
+best_rule,sttl > 0.7219
+best_rule_precision_attack,1.0
+best_rule_coverage,0.000103
+shap_time_sec,382.428
+sparsity_top10_mass_mean,0.745634
+fidelity_mae_top10_mask,0.195067
+stability_cosine_mean,0.812329
+faithfulness_prob_drop_top10,-0.022067

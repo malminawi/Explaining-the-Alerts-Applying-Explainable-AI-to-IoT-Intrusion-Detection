@@ -1,0 +1,14 @@
+item,value
+model,NaiveBayes
+dataset,RT-IoT2022
+xai_samples_shap,1000
+shap_top_feature_1,service_mqtt
+lime_rules_collected,24
+best_rule,payload_bytes_per_second > 0.3278
+best_rule_precision_attack,1.0
+best_rule_coverage,0.246859
+shap_time_sec,92.467
+sparsity_top10_mass_mean,0.928785
+fidelity_mae_top10_mask,0.054993
+stability_cosine_mean,0.788473
+faithfulness_prob_drop_top10,-0.080551

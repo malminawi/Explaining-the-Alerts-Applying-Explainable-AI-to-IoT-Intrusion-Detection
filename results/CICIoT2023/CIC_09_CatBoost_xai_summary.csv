@@ -1,0 +1,14 @@
+item,value
+model,CatBoost
+dataset,CICIoT2023
+xai_samples_shap,1000
+shap_top_feature_1,Tot sum
+lime_rules_collected,24
+best_rule,syn_flag_number > -0.5110
+best_rule_precision_attack,1.0
+best_rule_coverage,0.206991
+shap_time_sec,32.281
+sparsity_top10_mass_mean,0.840566
+fidelity_mae_top10_mask,0.004995
+stability_cosine_mean,0.89431
+faithfulness_prob_drop_top10,-0.016967

@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+CICIoT2023,AdaBoost,70/15/15,0.993875,0.99774,0.995983,0.996861,0.996334,0.998957,0.99997,0.996842,0.996302,0.998945,0.99997,0.995985,0.996033,8.8e-05,0.998659,0.99995,-3e-06,-0.000876

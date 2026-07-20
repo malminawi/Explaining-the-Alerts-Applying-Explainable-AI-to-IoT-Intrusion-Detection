@@ -1,0 +1,14 @@
+item,value
+model,ExtraTrees
+dataset,CICIoT2023
+xai_samples_shap,1000
+shap_top_feature_1,IAT
+lime_rules_collected,24
+best_rule,IAT > 0.0110
+best_rule_precision_attack,0.953953
+best_rule_coverage,0.253808
+shap_time_sec,362.086
+sparsity_top10_mass_mean,0.818006
+fidelity_mae_top10_mask,0.00846
+stability_cosine_mean,0.946244
+faithfulness_prob_drop_top10,-0.01581

@@ -1,0 +1,14 @@
+item,value
+model,NaiveBayes
+dataset,UNSW-NB15
+xai_samples_shap,300
+shap_top_feature_1,proto_unas
+lime_rules_collected,24
+best_rule,proto_unas > 0.0000
+best_rule_precision_attack,1.0
+best_rule_coverage,0.060852
+shap_time_sec,39.718
+sparsity_top10_mass_mean,0.8476
+fidelity_mae_top10_mask,0.0
+stability_cosine_mean,0.886525
+faithfulness_prob_drop_top10,0.15

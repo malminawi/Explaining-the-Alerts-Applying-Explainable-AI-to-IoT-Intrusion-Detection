@@ -1,0 +1,2 @@
+dataset,model,split,test_accuracy,test_precision,test_recall,test_f1,test_f2,test_roc_auc,test_pr_auc,val_f1,val_f2,val_roc_auc,val_pr_auc,train_f1,cv_val_f1_mean,cv_val_f1_std,cv_val_roc_mean,cv_val_pr_mean,cv_gap,train_test_gap
+full_dataset,LightGBM,70/15/15,0.995899,0.998501,0.997298,0.997899,0.997538,0.999378,0.999985,0.997945,0.99764,0.999344,0.999985,0.998621,0.997277,0.000279,0.998882,0.999973,0.002703,0.000722
